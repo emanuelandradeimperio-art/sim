@@ -1,0 +1,17 @@
+body {
+  background-color:rgba(0, 0, 0, 0.966)
+}
+
+h1{
+  color:#fffcfc;
+  border:1px solid  rgb(0, 0, 0);
+  border-radius:1px;
+  text-align:center;
+  background-color: rgb(0, 0, 0);
+}
+.center { 
+  text-align:center;
+}
+.fonte-30{
+  font-size:30px;
+}
